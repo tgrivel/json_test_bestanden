@@ -1,0 +1,58 @@
+{
+"metadata":{
+	"overheidslaag":"Gemeente","overheidsnummer":"1234",
+	"overheidsnaam":"Theodorp","boekjaar":"2018",
+	"periode":"1","status":"Realisatie",
+	"datum":"5-5-2018 11:41:29"
+	},
+"contact":{
+	"telefoon":"070-3374501",
+	"naam":"dhr. T.Grivel",
+	"e-mail":"tgvl@cbs.nl" 
+	},
+"data":{
+	"lasten":[
+		{"categorie":"3.3","taakveld":"0.64","bedrag":567,"bron":"algemene dienst"},
+		{"categorie":"3.3","taakveld":"0.64","bedrag":12,"bron":"parkeerbeheer"},
+		{"categorie":"1.1","taakveld":"0.1","bedrag":212},
+		{"categorie":"3.5.1","taakveld":"0.1","bedrag":6},
+		{"categorie":"1.1","taakveld":"0.4","bedrag":2868},
+		{"categorie":"3.5.1","taakveld":"0.4","bedrag":58},
+		{"categorie":"3.8","taakveld":"0.4","bedrag":77},
+		{"categorie":"1.1","taakveld":"0.5","bedrag":5},
+		{"categorie":"3.8","taakveld":"0.64","bedrag":26},
+		{"categorie":"1.1","taakveld":"1.1","bedrag":21}],
+	"balans_lasten":[
+		{"categorie":"3.5.1","balanscode":"A1312","bedrag":10},
+		{"categorie":"4.3.3","balanscode":"A223a","bedrag":878},
+		{"categorie":"1.1","balanscode":"P133","bedrag":60},
+		{"categorie":"3.8","balanscode":"P133","bedrag":13}],
+	"baten":[
+		{"categorie":"3.4.2","taakveld":"0.64","bedrag":1690},
+		{"categorie":"3.2","taakveld":"1.2","bedrag":40763},
+		{"categorie":"3.7","taakveld":"2.1","bedrag":1},
+		{"categorie":"3.7","taakveld":"2.2","bedrag":5},
+		{"categorie":"3.6","taakveld":"3.2","bedrag":1},
+		{"categorie":"3.7","taakveld":"3.3","bedrag":7},
+		{"categorie":"4.3.1","taakveld":"4.3","bedrag":23},
+		{"categorie":"3.6","taakveld":"5.2","bedrag":18},
+		{"categorie":"3.7","taakveld":"5.7","bedrag":1}],
+	"balans_baten":[
+		{"categorie":"3.8","balanscode":"A1312","bedrag":1},
+		{"categorie":"3.6","balanscode":"A1331b","bedrag":3},
+		{"categorie":"4.1.2","balanscode":"P133","bedrag":396},
+		{"categorie":"3.4.2","balanscode":"P133","bedrag":146}],
+	"balans_standen":[
+		{"standper":"ultimo","balanscode":"A1331b","bedrag":3040},
+		{"standper":"1 januari","balanscode":"A223a","bedrag":18282931},
+		{"balanscode":"A1312","standper":"1 januari","bedrag":1057},
+		{"balanscode":"A1312","standper":"ultimo","bedrag":1057},
+		{"balanscode":"A1331a","standper":"1 januari","bedrag":270},
+		{"balanscode":"A1331a","standper":"ultimo","bedrag":270},
+		{"balanscode":"A1331b","standper":"1 januari","bedrag":3090},
+		{"balanscode":"A1331b","standper":"ultimo","bedrag":3090},
+		{"balanscode":"A223a","standper":"1 januari","bedrag":10000},
+		{"balanscode":"A223a","standper":"ultimo","bedrag":9000}]
+	}
+}
+
